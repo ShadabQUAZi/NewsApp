@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "Bumrah bowls Rizwan as India take control",
+        "description": "India's Jasprit Bumrah takes the big wicket of Pakistan's Muhammad Rizwan at the Cricket World Cup in India.",
+        "url": "http://www.bbc.co.uk/sport/av/cricket/67111650",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A3B9/production/_131431914_p0gljff6.jpg",
+        "publishedAt": "2023-10-14T11:52:18.005301Z",
+        "content": "India's Jasprit Bumrah takes the big wicket of Pakistan's Muhammad Rizwan at the Cricket World Cup in India.\r\nFollow live: India v Pakistan"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "World Cup: Hosts India bowl first against Pakistan in front of 132,000 fans",
+        "description": "Follow live text, in-play video clips and radio commentary as India play Pakistan in the Men's Cricket World Cup 2023.",
+        "url": "http://www.bbc.co.uk/sport/live/cricket/66854577",
+        "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+        "publishedAt": "2023-10-14T08:37:21.898423Z",
+        "content": "India captain Rohit Sharma: \"It cannot get bigger than this, no doubt about it. It is a fantastic atmosphere, you look for that and dream about it. We'll experience something really, really special.\r… [+513 chars]"
+      },
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Rohan Sharma",
+        "title": "LIVE: India vs Pakistan – ICC Cricket World Cup 2023",
+        "description": "Follow our live updates from the ICC Cricket World Cup blockbuster between India and Pakistan at Narendra Modi Stadium.",
+        "url": "http://www.aljazeera.com/sports/liveblog/2023/10/14/live-india-vs-pakistan-icc-cricket-world-cup-2023",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/10/2023-10-14T073618Z_1529289964_RC25S3AEVCSD_RTRMADP_3_CRICKET-WORLDCUP-IND-PAK-1697269466.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-10-14T05:27:42Z",
+        "content": "blinking-dot\r\nLive MatchLive Match, \r\nFollow our live updates from the ICC Cricket World Cup blockbuster between India and Pakistan at Narendra Modi Stadium in Ahmedabad at 08:30 GMT."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      }
+    ]
+  }
